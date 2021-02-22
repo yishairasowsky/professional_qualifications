@@ -1,8 +1,8 @@
-# Professional Qualifications for Yishai Rasowsky
-## [Curriculum Vitae](cv.pdf)
-## [Letter of Recommendation](letter_of_recommendation.pdf)
-## [Quantum Entanglement Thesis](thesis.pdf)
+## Professional Qualifications
+### [Curriculum Vitae](cv.pdf)
+### [Letter of Recommendation](letter_of_recommendation.pdf)
+### [Quantum Entanglement Thesis](thesis.pdf)
 
-# Contact Info
+## Contact Info
 You can email me at yishairasowsky at gmail dot com.
 	

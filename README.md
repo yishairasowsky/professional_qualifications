@@ -1,7 +1,7 @@
 ## Professional Qualifications
-<!-- ### [Curriculum Vitae](cv.pdf) -->
-<!-- ### [Letter of Recommendation](letter_of_recommendation.pdf) -->
-### [CV with Recommendation Letter](cv_with_recommendation.docx)
+### [CV with Recommendation Letter in Word Format](cv_with_recommendation.docx)
+### [PDF of Curriculum Vitae](cv.pdf)
+### [PDF of Letter of Recommendation](letter_of_recommendation.pdf)
 ### [Quantum Entanglement Thesis](thesis.pdf)
 
 ## Contact Info

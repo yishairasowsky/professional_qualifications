@@ -1,4 +1,4 @@
-# Yishai's Developer Portfolio
+# Project Portfolio
 
 ### Check out my [professional](#Professional-Projects) and [academic](#Academic-Projects) projects. Or view my [resume](cv.pdf).
 ---

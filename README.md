@@ -1,8 +1,10 @@
 ## Professional Qualifications
-### [CV with Recommendation Letter in Word Format](cv_with_recommendation.docx)
-### [PDF of Curriculum Vitae](cv.pdf)
-### [PDF of Letter of Recommendation](letter_of_recommendation.pdf)
-### [Quantum Entanglement Thesis](thesis.pdf)
+
+### [Curriculum Vitae](cv.pdf)
+### [Portfolio](portfolio.md)
+### [CV + Recommendation](cv_with_recommendation.docx)
+### [Recommendation](letter_of_recommendation.pdf)
+### [Quantum Thesis](thesis.pdf)
 
 ## Contact Info
 You can email me at yishairasowsky at gmail dot com.

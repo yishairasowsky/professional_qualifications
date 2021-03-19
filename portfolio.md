@@ -1,6 +1,6 @@
 # Project Portfolio
 
-### Check out my [professional](#Professional-Projects) and [academic](#Academic-Projects) projects. Or view my [resume](cv.pdf).
+### Check out my [professional](#Professional-Projects) and [academic](#Academic-Projects) work, or view my [resume](cv.pdf).
 ---
 ## Professional Projects:
 1. [Text Classifer](#Text-Classifer)

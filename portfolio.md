@@ -12,6 +12,7 @@
 - Two-stage hierarchical architecture
 - Very precise multi-Label tagging for 4000 topics
 - English and Ancient Hebrew Dataset
+- See the [article](https://yishairasowsky.medium.com/multi-label-text-classification-d44105d581d6) and [code](https://github.com/yishairasowsky/Sefaria-Project/blob/master/ML/scripts/multi_label_classification.py)
 ### 2. Data Extractor 
 - Created NLP entity extractor for lease contracts using rule-based logic.
 - Developed interactive confusion matrix and statistics to evaluate predictions.

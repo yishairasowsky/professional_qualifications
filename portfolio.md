@@ -32,6 +32,7 @@
 1. [Neural Network](#Neural-Network)
 2. [Image Classifiers](#Image-Classifiers)
 3. [Story Illustrator](#Story-Illustrator)
+3. [Gemara Scraper](#Gemara-Scraper)
 4. [Physics thesis](#Physics-thesis)
 
 ### Neural Network
@@ -44,6 +45,9 @@
 - Based on the user's input text, this package produces a slideshow
 - Complete with appropriate images and  captions
 - Published on PyPI available for installation
+### Gemara Scraper
+- Retrieve a series of text documents of Talmud with commentaries.
+- Completed using Sefaria's API.
 ### Physics thesis
 - Exploration of quantum mechanically entangled systems
 - Evaluation of various measures of entanglement of quantum particles

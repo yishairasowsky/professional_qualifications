@@ -1,9 +1,9 @@
 ## Professional Qualifications
 
-### [Curriculum Vitae](cv.pdf)
 ### [Portfolio](portfolio.md)
-### [CV + Recommendation](cv_with_recommendation_04_15_21.docx)
+### [Curriculum Vitae](cv.pdf)
 ### [Recommendation](letter_of_recommendation.pdf)
+### [CV + Recommendation](cv_with_recommendation_04_15_21.docx)
 ### [Quantum Thesis](thesis.pdf)
 
 ## Contact Info

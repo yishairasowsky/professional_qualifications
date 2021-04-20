@@ -1,14 +1,14 @@
 # **Yishai's Portfolio**
 
-## Main Menu:
+## Table of Contents:
 
-### - Professional:
+### Professional Projects:
 - [Text Classifer](#Text-Classifer)
 - [Data Extractor](#Data-Extractor)
 - [Keyword Finder](#Keyword-Finder)
 - [Reference Extractor](#Reference-Extractor)
 
-### - Academic:
+### Academic Projects:
 - [Neural Network](#Neural-Network)
 - [Image Classifiers](#Image-Classifiers)
 - [Story Illustrator](#Story-Illustrator)
@@ -16,9 +16,7 @@
 - [Physics thesis](#Physics-thesis)
 
 ---
----
 ## **Professional Projects:**
----
 
 #### **Text Classifer**
 - Two-stage hierarchical architecture
@@ -39,12 +37,11 @@
 - Used Regex and my own enhancements to refine the search precision and recall
 
 
-[Main Menu](#Main-Menu)
+[Table of Contents](#Table-of-Contents)
 
 ---
----
+
 ## **Academic Projects:**
----
 
 #### **Neural Network**
 - Constructed from scratch without third libraries.
@@ -63,4 +60,4 @@
 - Exploration of quantum mechanically entangled systems.
 - Evaluation of various measures of entanglement of quantum particles.
 
-[Main Menu](#Main-Menu)
+[Table of Contents](#Table-of-Contents)

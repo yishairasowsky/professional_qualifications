@@ -31,7 +31,8 @@
 - You can also [view the code](https://github.com/yishairasowsky/Sefaria-Project/blob/master/ML/scripts/multi_label_classification.py) on GitHub.
 - Learn more about the company [here](http://www.sefaria.org).
 
-<!-- --- -->
+![](https://www.shutterstock.com/image-vector/programmers-chatbot-processing-natural-language-scince-1318788137)
+---
 
 #### **FinTech Extractor**
 - Created NLP entity extractor for lease contracts using rule-based logic.

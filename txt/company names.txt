@@ -1,0 +1,10 @@
+Neural Network
+Constructed from scratch without third libraries
+Displays superiority on non-linear dataset
+Image Classifiers
+Implementation of convolution neural network
+Binary as well as multiclass applications
+Story Illustrator
+Based on the user's input text, this package produces a slideshow
+Complete with appropriate images and captions
+Published on PyPI available for installation	s

@@ -18,7 +18,7 @@
 
 - Not Machine Learning:
     - [Story Illustrator](#Story-Illustrator)
-    - [Screen Surveillance](#Screen-Surveillance)
+    - [Screen Capture](#Screen-Capture)
     - [Gemara Scraper](#Gemara-Scraper)
     - [Physics thesis](#Physics-thesis)
 

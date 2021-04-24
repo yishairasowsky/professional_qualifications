@@ -120,6 +120,7 @@ Back to [Table of Contents](#Table-of-Contents)
 ## **Screen Capture**
 - Free and simple surveillance system to snap shots of your computer screen in real time, and sent them to a person on WhatsApp.  
 - For instance, a wife can check her husband's activity; or parents can supervise children. 
+- Enjoy watching [this video](https://www.linkedin.com/posts/yishai-rasowsky-a28189164_safety-wife-husband-activity-6791801203790516224-W_YY) about the project.
 - You can see [the code](https://github.com/yishairasowsky/screen_capture) on GitHub.
 
 

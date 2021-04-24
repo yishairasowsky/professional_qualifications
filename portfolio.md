@@ -18,6 +18,7 @@
 
 - Not Machine Learning:
     - [Story Illustrator](#Story-Illustrator)
+    - [Screen Surveillance](#Screen-Surveillance)
     - [Gemara Scraper](#Gemara-Scraper)
     - [Physics thesis](#Physics-thesis)
 
@@ -111,6 +112,18 @@ Back to [Table of Contents](#Table-of-Contents)
 - You can also see [the code](https://github.com/yishairasowsky/easyscraper) on GitHub.
 
     <img src="img/illustrator.jpg" width="280">
+
+Back to [Table of Contents](#Table-of-Contents)
+
+---
+
+## **Screen Capture**
+- Free and simple surveillance system to snap shots of your computer screen in real time, and sent them to a person on WhatsApp.  
+- For instance, a wife can check her husband's activity; or parents can supervise children. 
+- You can see [the code](https://github.com/yishairasowsky/screen_capture) on GitHub.
+
+
+    <img src="img/screen capture.png" width="380">
 
 Back to [Table of Contents](#Table-of-Contents)
 

@@ -1,7 +1,6 @@
 # **Problem Solving Guidelines**
 
-### **Before you start coding**:
----
+### **Before Coding**:
 
 0. Don't Panic
 
@@ -15,8 +14,6 @@
 
 4. Simple mechanical solution!
 ---
----
-### **Now you can start coding**:
----
-As you code...
-5. Develop incrementally and test as you go!
+### **While Coding**:
+5. Develop incrementally.
+6. Test as you go!

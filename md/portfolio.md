@@ -32,7 +32,7 @@
 - You can also [view the code](https://github.com/yishairasowsky/Sefaria-Project/blob/master/ML/scripts/multi_label_classification.py) on GitHub.
 - Learn more about the company [here](http://www.sefaria.org).
 
-    <img src="img/text.png" width="350">
+    <img src="../img/text.png" width="350">
 Back to [Table of Contents](#Table-of-Contents)
 
 ---
@@ -44,7 +44,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Achieved accuracy of >90% for some entities; boosted precision/recall by 20%.
 - I cannot show the code, because it belongs to [SMRTflow](https://www.linkedin.com/company/trullion).
 
-    <img src="img/fintech.jpg" width="300">
+    <img src="../img/fintech.jpg" width="300">
 
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -58,7 +58,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Leverages part-of-speech tagging and dependency parsing.
 - I cannot show the code, because it belongs to [Slideo](https://www.linkedin.com/in/eladdarmon/).
 
-    <img src="img/ppt.jpg" width="300">
+    <img src="../img/ppt.jpg" width="300">
 
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -70,7 +70,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Used Regex and my own enhancements to refine the search precision and recall
 - I cannot show the code, because it belongs to [Waymark.tech](https://www.waymark.tech/).
     
-    <img src="img/legal.jpg" width="350">
+    <img src="../img/legal.jpg" width="350">
 <!-- --- -->
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -86,7 +86,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Enjoy watching [this video](https://www.youtube.com/watch?v=ng-DZgl2b5M) about the project.
 - You can also see [the code](https://github.com/yishairasowsky/professional_qualifications/blob/master/cat_dog_classifier.ipynb) on GitHub.
 
-    <img src="img/network.jpg" width="250">
+    <img src="../img/network.jpg" width="250">
 
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -97,7 +97,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Binary as well as multiclass applications.
 - Enjoy watching this [lengthy video](https://www.youtube.com/watch?v=cwhyMNTdSsY) or this [briefer video](https://www.youtube.com/watch?v=SegFeTncLDY) about the project.
 
-    <img src="img/dogs_cats.jpg" width="300">
+    <img src="../img/dogs_cats.jpg" width="300">
 
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -111,7 +111,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Enjoy watching [this video](https://www.linkedin.com/posts/yishai-rasowsky-a28189164_python-github-programming-activity-6747194516484182017-A3pQ) about the project.
 - You can also see [the code](https://github.com/yishairasowsky/easyscraper) on GitHub.
 
-    <img src="img/illustrator.jpg" width="280">
+    <img src="../img/illustrator.jpg" width="280">
 
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -124,7 +124,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - You can see [the code](https://github.com/yishairasowsky/screen_capture) on GitHub.
 
 
-    <img src="img/screen capture.png" width="380">
+    <img src="../img/screen capture.png" width="380">
 
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -136,7 +136,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - You can also see [the code](https://github.com/yishairasowsky/gemara_scraper) on GitHub.
 
 
-    <img src="img/gemara.jpg" width="230">
+    <img src="../img/gemara.jpg" width="230">
 
 Back to [Table of Contents](#Table-of-Contents)
 
@@ -147,7 +147,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - You can [read it here](https://github.com/yishairasowsky/professional_qualifications/blob/master/thesis.pdf).
  
 
-    <img src="img/entanglement.jpg" width="210">
+    <img src="../img/entanglement.jpg" width="210">
 
 Back to [Table of Contents](#Table-of-Contents)
 

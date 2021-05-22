@@ -38,7 +38,7 @@ Back to [Table of Contents](#Table-of-Contents)
 ---
 
 
-## **Accounting Extraction**
+## **FinTech Extractor**
 - Created NLP entity extractor for lease contracts using rule-based logic.
 - Developed interactive confusion matrix and statistics to evaluate predictions.
 - Achieved accuracy of >90% for some entities; boosted precision/recall by 20%.

@@ -20,6 +20,7 @@
     - [Story Illustrator](#Story-Illustrator)
     - [Screen Capture](#Screen-Capture)
     - [Gemara Scraper](#Gemara-Scraper)
+    - [Sefer Maker](#Sefer-Maker)
     - [Physics thesis](#Physics-thesis)
 
 ---
@@ -137,6 +138,17 @@ Back to [Table of Contents](#Table-of-Contents)
 
 
     <img src="../img/gemara.jpg" width="350">
+
+Back to [Table of Contents](#Table-of-Contents)
+
+---
+## **Sefer Maker**
+- Create PDF document of Jewish texts, such as Mishnah, with translations and commentaries.
+- Completed using Sefaria's API.
+- You can also see [the code](https://github.com/yishairasowsky/SeferMaker) on GitHub.
+
+
+    <img src="../img/sefer_icon.jpg" width="350">
 
 Back to [Table of Contents](#Table-of-Contents)
 

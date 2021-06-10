@@ -6,9 +6,11 @@
 - Machine Learning:
     - [Text Classifer](#Text-Classifer)
     - [Keyword Finder](#Keyword-Finder)
+    - [Quantum Classifier](#Quantum-Classifier)
 - Not Machine Learning:
     - [FinTech Extractor](#FinTech-Extractor)
     - [Reference Extractor](#Reference-Extractor)
+    - [Sefer Maker](#Sefer-Maker)
 
 ### *Academic Projects:*
 - Machine Learning:
@@ -20,8 +22,7 @@
     - [Story Illustrator](#Story-Illustrator)
     - [Screen Capture](#Screen-Capture)
     - [Gemara Scraper](#Gemara-Scraper)
-    - [Sefer Maker](#Sefer-Maker)
-    - [Physics thesis](#Physics-thesis)
+    - [Physics Thesis](#Physics-Thesis)
 
 ---
 
@@ -33,7 +34,7 @@
 - You can also [view the code](https://github.com/yishairasowsky/Sefaria-Project/blob/master/ML/scripts/multi_label_classification.py) on GitHub.
 - Learn more about the company [here](http://www.sefaria.org).
 
-    <img src="../img/text.png" width="350">
+    <img src="../img/nlp.jpg" width="350">
 Back to [Table of Contents](#Table-of-Contents)
 
 ---
@@ -51,8 +52,6 @@ Back to [Table of Contents](#Table-of-Contents)
 
 ---
 
-
-
 ## **Keyword Finder**
 - Implemented in Hebrew language.
 - From an input sentence, this application returns the most important word or phrase.
@@ -65,6 +64,17 @@ Back to [Table of Contents](#Table-of-Contents)
 
 ---
 
+## **Quantum Classifier**
+- Implementation of [qlang](https://github.com/exaQ-ai/qlang/) simulator from exaQ-ai.
+- Coding and analysis of loss function for quantum circuits on iris dataset classification.
+- Please see the code [here](https://github.com/exaQ-ai/yishaiWIP/blob/master/iris/loss_function.ipynb). 
+
+    <img src="../img/iris-circuit-block.svg" width="650">
+
+Back to [Table of Contents](#Table-of-Contents)
+
+---
+
 ## **Reference Extractor**
 - Locates technical citiations from legal documents
 - Enhanced search algorithm to 90% accuracy
@@ -72,9 +82,21 @@ Back to [Table of Contents](#Table-of-Contents)
 - I cannot show the code, because it belongs to [Waymark.tech](https://www.waymark.tech/).
     
     <img src="../img/legal.jpg" width="350">
+
 <!-- --- -->
 Back to [Table of Contents](#Table-of-Contents)
 
+
+---
+## **Sefer Maker**
+- Create PDF document of Jewish texts, such as Mishnah, with translations and commentaries.
+- Completed using Sefaria's API.
+- You can also see [the code](https://github.com/yishairasowsky/SeferMaker) on GitHub.
+
+
+    <img src="../img/sefer_icon.jpg" width="350">
+
+Back to [Table of Contents](#Table-of-Contents)
 ---
 
 <!-- ## **Academic Projects:** -->
@@ -142,18 +164,7 @@ Back to [Table of Contents](#Table-of-Contents)
 Back to [Table of Contents](#Table-of-Contents)
 
 ---
-## **Sefer Maker**
-- Create PDF document of Jewish texts, such as Mishnah, with translations and commentaries.
-- Completed using Sefaria's API.
-- You can also see [the code](https://github.com/yishairasowsky/SeferMaker) on GitHub.
-
-
-    <img src="../img/sefer_icon.jpg" width="350">
-
-Back to [Table of Contents](#Table-of-Contents)
-
----
-## **Physics thesis**
+## **Physics Thesis**
 - Exploration of quantum mechanically entangled systems.
 - Evaluation of various measures of entanglement of quantum particles.
 - You can [read it here](https://github.com/yishairasowsky/professional_qualifications/blob/master/thesis.pdf).

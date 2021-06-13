@@ -1,7 +1,7 @@
 # Professional Qualifications
 
 - [Project Portfolio](md/portfolio.md)
-- [Resume/CV](pdf/cv.pdf)
+- [Resume/CV](pdf/yishai_rasowsky_CV.pdf)
 - [Hebrew Resume/CV](md/hebrew_cv.md)
 - [Recommendation](pdf/letter_of_recommendation.pdf)
 - [Quantum Thesis](pdf/thesis.pdf)

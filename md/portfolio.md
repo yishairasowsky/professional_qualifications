@@ -67,7 +67,7 @@ Back to [Table of Contents](#Table-of-Contents)
 ## **Quantum Classifier**
 - Implementation of [qlang](https://github.com/exaQ-ai/qlang/) simulator from exaQ-ai.
 - Coding and analysis of loss function for quantum circuits on iris dataset classification.
-- Please see the code [here](https://github.com/exaQ-ai/yishaiWIP/blob/master/iris/loss_function.ipynb). 
+- Please see the code [here](https://github.com/exaQ-ai/yishaiWIP/blob/master/iris/compute_loss.ipynb). 
 
     <img src="../img/iris-circuit-block.svg" width="650">
 

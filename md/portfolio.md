@@ -14,6 +14,7 @@
 
 ### *Academic Projects:*
 - Machine Learning:
+    - [Bert Classification](#Bert-Classification)
     - [Neural Network](#Neural-Network)
     - [Image Classifiers](#Image-Classifiers)
     - [Digit Prediction](#digit-prediction)
@@ -97,11 +98,22 @@ Back to [Table of Contents](#Table-of-Contents)
     <img src="../img/sefer_icon.jpg" width="350">
 
 Back to [Table of Contents](#Table-of-Contents)
+
 ---
 
 <!-- ## **Academic Projects:** -->
+## **BERT Classification**
+- Created and documented complete Python modules to load and prepare textual data for BERT Classification.
+- Demonstrated the ability to fine tune BERT using two datasets 
+    - Amazon product reviews: multiclass classification 
+    - News reel: Named entity recognition
+- You can also see [the code](https://github.com/yishairasowsky/citi-interview/tree/main/scripts) on GitHub.
 
-<!-- --- -->
+    <img src="../img/bert2.jpg" width="350">
+
+Back to [Table of Contents](#Table-of-Contents)
+
+---
 
 ## **Neural Network**
 - Constructed from scratch without third libraries.

@@ -27,7 +27,7 @@
 
 ---
 
-##  **Text Classifer:** 
+##  **Text Classifier:** 
 - Two-stage hierarchical architecture.
 - Very precise multi-Label tagging for 4000 topics.
 - English and Ancient Hebrew dataset.

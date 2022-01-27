@@ -7,7 +7,7 @@
     - [Text Generation](#Text-Generation)
     - [Record Linkage](#Record-Linkage)
     - [Topic Modeling](#Topic-Modeling)
-    - [Text Classifer](#Text-Classifer)
+    - [Text Classifier](#Text-Classifier)
     - [Keyword Finder](#Keyword-Finder)
     - [Quantum Classifier](#Quantum-Classifier)
 - Not Machine Learning:

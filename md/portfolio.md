@@ -171,6 +171,16 @@ Back to [Table of Contents](#Table-of-Contents)
 
 ---
 
+## **Digit Prediction**
+- Implementation of neural network on MNIST dataset.
+- Check out the [the code](https://colab.research.google.com/drive/1GyeuccVqfT5iUoXSc3KCM10MmucKnDwp?usp=sharing) on Colab.
+
+    <img src="../img/digit-prediction.jpg" width="350">
+
+Back to [Table of Contents](#Table-of-Contents)
+
+---
+
 
 ## **Story Illustrator**
 - Based on the user's input text, this package produces a slideshow.

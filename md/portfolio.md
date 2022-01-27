@@ -71,18 +71,6 @@ Back to [Table of Contents](#Table-of-Contents)
     <img src="../img/nlp.jpg" width="350">
 Back to [Table of Contents](#Table-of-Contents)
 
----
-
-
-## **FinTech Extractor**
-- Created NLP entity extractor for lease contracts using rule-based logic.
-- Developed interactive confusion matrix and statistics to evaluate predictions.
-- Achieved accuracy of >90% for some entities; boosted precision/recall by 20%.
-- I cannot show the code, because it belongs to [SMRTflow](https://www.linkedin.com/company/trullion).
-
-    <img src="../img/fintech.jpg" width="350">
-
-Back to [Table of Contents](#Table-of-Contents)
 
 ---
 
@@ -107,6 +95,18 @@ Back to [Table of Contents](#Table-of-Contents)
 
 Back to [Table of Contents](#Table-of-Contents)
 
+---
+
+
+## **FinTech Extractor**
+- Created NLP entity extractor for lease contracts using rule-based logic.
+- Developed interactive confusion matrix and statistics to evaluate predictions.
+- Achieved accuracy of >90% for some entities; boosted precision/recall by 20%.
+- I cannot show the code, because it belongs to [SMRTflow](https://www.linkedin.com/company/trullion).
+
+    <img src="../img/fintech.jpg" width="350">
+
+Back to [Table of Contents](#Table-of-Contents)
 ---
 
 ## **Reference Extractor**
@@ -228,5 +228,3 @@ Back to [Table of Contents](#Table-of-Contents)
     <img src="../img/entanglement.jpg" width="350">
 
 Back to [Table of Contents](#Table-of-Contents)
-
----

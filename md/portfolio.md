@@ -4,6 +4,9 @@
 
 ### *Professional Projects:*
 - Machine Learning:
+    - [Text Generation](#Text-Generation)
+    - [Record Linkage](#Record-Linkage)
+    - [Topic Modeling](#Topic-Modeling)
     - [Text Classifer](#Text-Classifer)
     - [Keyword Finder](#Keyword-Finder)
     - [Quantum Classifier](#Quantum-Classifier)
@@ -27,6 +30,36 @@
 
 ---
 
+##  **Text Generation:** 
+- Automatic completion of words and sentences.
+- Helps employees write and comment on debriefs about experiences at work.
+- Incorporates words already written in orderto predic the most likely continuation.
+- Learn more about the company [here](https://www.shamaym.com/).
+
+    <img src="../img/text-generation.jpg" width="350">
+Back to [Table of Contents](#Table-of-Contents)
+
+---
+
+##  **Topic Modeling:** 
+- Multi-label classifier which automatically places debriefs into appropriate subjects.
+- Wide range of topics, from presentation skills to meeting management, bug-fixes to customer relationship.
+- Learn more about the company [here](https://www.shamaym.com/).
+
+    <img src="../img/topic-modeling.png" width="350">
+Back to [Table of Contents](#Table-of-Contents)
+
+---
+
+##  **Record Linkage:** 
+- Deduplicates different records that in fact refer to the same healthcare professional. 
+- Based on diverse fields of data, including birthdate, address, middle name, and license numbers. 
+- Learn more about the company [here](http://www.streamlineverify.com).
+
+    <img src="../img/record-linkage.jpg" width="350">
+Back to [Table of Contents](#Table-of-Contents)
+
+---
 ##  **Text Classifier:** 
 - Two-stage hierarchical architecture.
 - Very precise multi-Label tagging for 4000 topics.

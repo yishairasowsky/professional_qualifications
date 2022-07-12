@@ -202,7 +202,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - You can see [the code](https://github.com/yishairasowsky/screen_capture) on GitHub.
 
 
-    <img src="../img/screen capture.png" width="350">
+    <img src="../img/screen_capture.ico" width="350">
 
 Back to [Table of Contents](#Table-of-Contents)
 

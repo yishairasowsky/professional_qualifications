@@ -37,6 +37,7 @@
 - Learn more about the company [here](https://www.shamaym.com/).
 
     <img src="../img/text-generation.jpg" width="350">
+    
 Back to [Table of Contents](#Table-of-Contents)
 
 ---
@@ -47,6 +48,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Learn more about the company [here](https://www.shamaym.com/).
 
     <img src="../img/topic-modeling.png" width="350">
+
 Back to [Table of Contents](#Table-of-Contents)
 
 ---
@@ -57,6 +59,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Learn more about the company [here](http://www.streamlineverify.com).
 
     <img src="../img/record-linkage.jpg" width="350">
+
 Back to [Table of Contents](#Table-of-Contents)
 
 ---
@@ -69,6 +72,7 @@ Back to [Table of Contents](#Table-of-Contents)
 - Learn more about the company [here](http://www.sefaria.org).
 
     <img src="../img/nlp.jpg" width="350">
+    
 Back to [Table of Contents](#Table-of-Contents)
 
 
